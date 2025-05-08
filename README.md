@@ -1,22 +1,31 @@
 # 🛒 ProductManager.Models
 
-> Dự án quản lý sản phẩm viết bằng **C#**, áp dụng **Lập trình Hướng Đối Tượng (OOP)** và sử dụng **Factory Pattern**, **Repository Pattern** đơn giản.
+> Dự án quản lý sản phẩm viết bằng **C#** áp dụng **Lập trình Hướng Đối Tượng (OOP)** và mô hình phân lớp đơn giản.
 
 ---
 
-## 🧱 Cấu trúc chính
+## 🧱 Mô tả dự án
 
-ProductManager.Models/
+Dự án mô phỏng việc quản lý sản phẩm, danh mục và nhà cung cấp, giúp sinh viên thực hành thiết kế class, repository, và factory pattern trong C#.
+
+---
+
+## ⚙️ Cấu trúc chính
+
+```plaintext
 ├── Models/
-│ ├── Product.cs
-│ ├── Category.cs
-│ └── Supplier.cs
+│   ├── Product.cs        - Lớp sản phẩm
+│   ├── Category.cs       - Lớp danh mục sản phẩm
+│   └── Supplier.cs       - Lớp nhà cung cấp
+│
 ├── Repository/
-│ └── ProductRepository.cs
+│   └── ProductRepository.cs - CRUD cho sản phẩm
+│
 ├── Factory/
-│ └── ProductFactory.cs
-├── Program.cs
-└── ClassDiagram1.cd
+│   └── ProductFactory.cs    - Tạo sản phẩm tự động
+│
+├── ProductManager.Models.sln
+└── Program.cs               - Điểm bắt đầu chương trình
 
 ---
 
@@ -39,7 +48,7 @@ ProductManager.Models/
 
 - C#
 - .NET Framework
-- Visual Studio 2022
+- Visual Studio 2013
 - Git + GitHub
 
 ---
