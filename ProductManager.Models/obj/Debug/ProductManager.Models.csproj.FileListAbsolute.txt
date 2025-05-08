@@ -1,0 +1,6 @@
+D:\Lập Trình Hướng Đối Tượng\ProductManager.Models\ProductManager.Models\bin\Debug\ProductManager.Models.exe.config
+D:\Lập Trình Hướng Đối Tượng\ProductManager.Models\ProductManager.Models\bin\Debug\ProductManager.Models.exe
+D:\Lập Trình Hướng Đối Tượng\ProductManager.Models\ProductManager.Models\bin\Debug\ProductManager.Models.pdb
+D:\Lập Trình Hướng Đối Tượng\ProductManager.Models\ProductManager.Models\obj\Debug\ProductManager.Models.csprojResolveAssemblyReference.cache
+D:\Lập Trình Hướng Đối Tượng\ProductManager.Models\ProductManager.Models\obj\Debug\ProductManager.Models.exe
+D:\Lập Trình Hướng Đối Tượng\ProductManager.Models\ProductManager.Models\obj\Debug\ProductManager.Models.pdb
